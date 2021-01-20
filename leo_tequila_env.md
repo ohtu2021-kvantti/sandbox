@@ -13,5 +13,5 @@ conda install psi4 -c psi4
 conda install pip git
 
 # Install tequila
-https://github.com/ohtu2021-kvantti/sandbox/blob/main/tequila_test.ipynb
+pip install git+https://github.com/aspuru-guzik-group/tequila.git
 ```
